@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage" : "https://github.com/naibahmed96/Face-Recognition",
+  "homepage" : "https://github.com/naibahmed96/Face-Recognition/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
