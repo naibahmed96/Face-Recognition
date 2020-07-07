@@ -1,0 +1,15 @@
+img {
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+}
+
+.Tilt {
+  box-shadow: 2px 4px 6px #000;
+  background: linear-gradient(to right, #11998e, #38ef7d);
+}
+
+
+.tilt-box {
+  margin: 30px 40px;
+}

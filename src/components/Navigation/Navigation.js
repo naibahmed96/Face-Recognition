@@ -1,9 +1,14 @@
 import React from 'react';
+import './Navigation.css';
 
 const Navigation = () => {
   return (
-    <p>Sign Out</p>
-  )
+    <nav>
+      <p>
+        <a href="#">Sign Out</a>
+      </p>
+    </nav>
+  );
 }
 
 export default Navigation;
