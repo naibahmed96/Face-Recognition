@@ -1,6 +1,7 @@
 {
   "name": "face-recognition",
   "version": "0.1.0",
+  "homepage" : "https://naibahmed96.github.io/Face-Recognition/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -11,7 +12,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage" : "https://github.com/naibahmed96/Face-Recognition/",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
