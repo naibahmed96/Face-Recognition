@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* Own css */
+.lead {
+  font-size: 1.2rem;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
