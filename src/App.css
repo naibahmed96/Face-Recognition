@@ -46,3 +46,15 @@
   display: flex;
   justify-content: center;
 }
+
+.white {
+  color: white;
+}
+
+.f2 {
+  font-size: 1.5rem;
+}
+
+.f1 {
+  font-size: 2rem;
+}
