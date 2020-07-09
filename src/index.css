@@ -1,8 +1,12 @@
+@font-face {
+  font-family: 'Share Tech Mono';
+  src: url(./ShareTechMono-Regular.ttf);
+}
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Share Tech Mono';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient( to right, #fc00ff, #00dbde);
