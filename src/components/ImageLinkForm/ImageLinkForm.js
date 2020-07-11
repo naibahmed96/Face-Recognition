@@ -1,7 +1,7 @@
 import React from "react";
 import "./ImageLinkForm.css";
 
-const ImageLinkForm = () => {
+const ImageLinkForm = ({ onInputChange, onButtonClick }) => {
   return (
     <div>
       <p className="lead">
@@ -9,8 +9,8 @@ const ImageLinkForm = () => {
       </p>
       <div className="center">
         <div className="box center" id="box">
-          <input type="text" />
-          <button>Detect</button>
+          <input type="text" onChange={ onInputChange }/>
+          <button onClick={ onButtonClick }>Detect</button>
         </div>
       </div>
     </div>
