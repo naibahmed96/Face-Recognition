@@ -1,0 +1,53 @@
+#card {
+  margin: 0 auto;
+  width: 600px;
+  box-shadow: 4px 4px 8px #444;
+  padding: 0 0 50px;
+}
+
+.form-group {
+  font-size: 1.2rem;
+  width: 70%;
+  margin: auto;
+}
+
+legend {
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+}
+
+.form-group input,
+.submit-form input {
+  background-color: transparent;
+  border: 2px solid black;
+}
+
+.form-group input {
+  margin: 5px 0px 30px;
+}
+
+.form-group input:focus,
+.form-group input:hover {
+  background-color: black;
+  color: white;
+}
+
+.submit-form input {
+  width: 20%;
+  cursor: pointer;
+}
+
+.submit-form input:hover {
+  background-color: black;
+  color: white;
+}
+
+.register {
+  padding: 10px;
+}
