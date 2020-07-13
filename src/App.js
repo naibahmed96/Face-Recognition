@@ -44,9 +44,9 @@ class App extends Component {
     const height = Number(image.height);
     return {
       leftCol: clarifaiFace.left_col * width,
-      topRow: clarifaiFace.top_row * height,
-      rightCol: (clarifaiFace.right_col * width) - width,
-      bottomRow: (clarifaiFace.bottom_row * height) - height
+      topRow: clarifaiFace.top_row * height ,
+      rightCol: width - (clarifaiFace.right_col * width),
+      bottomRow: height - (clarifaiFace.bottom_row * height)
     }
 
   }
@@ -84,7 +84,7 @@ class App extends Component {
           onInputChange={this.onInputChange} 
           onButtonClick={this.onButtonClick}
         />
-        <FaceRecognition imageURL={this.state.imageURL}/>
+        <FaceRecognition box={this.state.box} imageURL={this.state.imageURL}/>
       </div>
     );
   }
