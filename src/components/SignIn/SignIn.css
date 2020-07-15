@@ -50,4 +50,7 @@ legend {
 
 .register {
   padding: 10px;
+  cursor: pointer;
+  width: 50px;
+  margin: auto;
 }

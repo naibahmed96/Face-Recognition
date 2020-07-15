@@ -1,26 +1,28 @@
 import React from 'react';
 import './SignIn.css';
 
-const SignIn = () => {
+const SignIn = ({ onRouteChange }) => {
   return (
     <section id="card">
       <form>
         <legend>Sign In</legend>
         <div className="form-group">
-          <label>Email</label>
-          <input type="email" />
+          <label htmlFor="email">Email</label>
+          <input type="email" id="email" />
         </div>
         <div className="form-group">
-          <label>Password</label>
-          <input type="password" />
+          <label htmlFor="password">Password</label>
+          <input type="password" id="password" />
         </div>
         <div className="submit-form">
-          <input type="submit" value="Sign in" />
+          <input
+            type="submit"
+            value="Sign in"
+            onClick={() => onRouteChange("home")}
+          />
         </div>
         <div className="register">
-          <p>
-            <a href="">Register</a>
-          </p>
+          <p onClick={() => onRouteChange("register")}> Register</p>
         </div>
       </form>
     </section>
