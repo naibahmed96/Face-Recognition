@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Face-Recognition/static/css/main.f84f3de6.chunk.css",
-    "main.js": "/Face-Recognition/static/js/main.c275c9e7.chunk.js",
-    "main.js.map": "/Face-Recognition/static/js/main.c275c9e7.chunk.js.map",
+    "main.css": "/Face-Recognition/static/css/main.106bf424.chunk.css",
+    "main.js": "/Face-Recognition/static/js/main.60694062.chunk.js",
+    "main.js.map": "/Face-Recognition/static/js/main.60694062.chunk.js.map",
     "runtime-main.js": "/Face-Recognition/static/js/runtime-main.4bbb2f6d.js",
     "runtime-main.js.map": "/Face-Recognition/static/js/runtime-main.4bbb2f6d.js.map",
-    "static/js/2.399956a3.chunk.js": "/Face-Recognition/static/js/2.399956a3.chunk.js",
-    "static/js/2.399956a3.chunk.js.map": "/Face-Recognition/static/js/2.399956a3.chunk.js.map",
+    "static/js/2.715056d9.chunk.js": "/Face-Recognition/static/js/2.715056d9.chunk.js",
+    "static/js/2.715056d9.chunk.js.map": "/Face-Recognition/static/js/2.715056d9.chunk.js.map",
     "index.html": "/Face-Recognition/index.html",
-    "precache-manifest.f1ce6ab4595c8b08685d3fe73d97139d.js": "/Face-Recognition/precache-manifest.f1ce6ab4595c8b08685d3fe73d97139d.js",
+    "precache-manifest.1cf5ca10cb7e22669c5883e740d065cc.js": "/Face-Recognition/precache-manifest.1cf5ca10cb7e22669c5883e740d065cc.js",
     "service-worker.js": "/Face-Recognition/service-worker.js",
-    "static/css/main.f84f3de6.chunk.css.map": "/Face-Recognition/static/css/main.f84f3de6.chunk.css.map",
-    "static/js/2.399956a3.chunk.js.LICENSE.txt": "/Face-Recognition/static/js/2.399956a3.chunk.js.LICENSE.txt",
+    "static/css/main.106bf424.chunk.css.map": "/Face-Recognition/static/css/main.106bf424.chunk.css.map",
+    "static/js/2.715056d9.chunk.js.LICENSE.txt": "/Face-Recognition/static/js/2.715056d9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Face-Recognition/static/media/ShareTechMono-Regular.972d54ac.ttf",
     "static/media/brain.png": "/Face-Recognition/static/media/brain.974e7836.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4bbb2f6d.js",
-    "static/js/2.399956a3.chunk.js",
-    "static/css/main.f84f3de6.chunk.css",
-    "static/js/main.c275c9e7.chunk.js"
+    "static/js/2.715056d9.chunk.js",
+    "static/css/main.106bf424.chunk.css",
+    "static/js/main.60694062.chunk.js"
   ]
 }
