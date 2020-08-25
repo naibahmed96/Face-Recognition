@@ -2,13 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Face Recognition Website
 
-This site allows you to register and signin. 
-Allows one to insert face image URL into the Input search bar.
-It detect the face and render a blue-like box around the face.
+This site allows you to register and signin. <br>
+Allows one to insert face image URL into the Input search bar.<br>
+It detect the face and render a blue-like box around the face.<br>
 
 ### Demo Sign In
-Email : naibahmed96@gmail.com
-Password: khamis10
+Email : naibahmed96@gmail.com<br>
+Password: khamis10<br>
 
-### Website link 
+### Website link <br>
 https://naibahmed96.github.io/Face-Recognition/
